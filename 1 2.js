@@ -13,10 +13,7 @@ hostname = *.biliapi.*, *.bilibili.*
 */
 
 
-[mitm]
-hostname = *.biliapi.*, *.bilibili.*
 
-*/
 
 var modifiedHeaders = $request.headers;
 
